@@ -5,4 +5,7 @@ title: SYD HOME
 description: Welcome to my website
 show_downloads: true
 google_analytics:
- theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
